@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TMFaJwCTeFV7LEPQPxJTorqqw7q2NFC+mwvtvh0BgOZ7U8WRUpKiS2KWQnkeJuG+LzD74EbgN07ZHUnTTZNkew==",
+  "dgSpecHash": "hEcaf+K2WO2sipW5dC1S1FOhIX3+WE72/nKNHH3BFsQssP8ZvbbE89cV2GZPc04W0sskKlnSeLEut0wAX/nwkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\илья\\OneDrive\\Документы\\Library_project\\StolovyiPriboryExam\\Library_project.csproj",
+  "projectFilePath": "C:\\Users\\илья\\OneDrive\\Документы\\Library_project\\Library_projects\\Library_project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\илья\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\илья\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
